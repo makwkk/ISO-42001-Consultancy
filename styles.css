@@ -118,6 +118,8 @@ p { margin: 0 0 1em; color: var(--ink-2); }
 }
 .brand { display: flex; align-items: center; gap: .65rem; font-weight: 800; color: var(--ink); }
 .brand:hover { text-decoration: none; }
+.brand img { width: auto; height: 40px; }
+.footer-brand .brand img { height: 36px; }
 .brand-name { font-size: 1.15rem; letter-spacing: -0.01em; }
 .brand-accent { color: var(--brand-2); }
 .nav { display: flex; align-items: center; gap: 1.6rem; }
