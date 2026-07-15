@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://makwkk.github.io/ISO-42001-Consultancy/sitemap.xml
